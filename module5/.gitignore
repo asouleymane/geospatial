@@ -1,0 +1,4 @@
+temp/
+*.hdf
+*.h5
+*.tiff
